@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921104549016",
+    "project_id": "emailpasswordauth-b3ac2",
+    "storage_bucket": "emailpasswordauth-b3ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921104549016:android:c33f82d0b35b138d36fced",
+        "android_client_info": {
+          "package_name": "com.example.geeksynergy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921104549016-ejq7c2rlr9sktpuv9jfhfu98j0dnk2t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL3s22GiDSp8FQVtDSUXgAE2HRQEuvS7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921104549016-ejq7c2rlr9sktpuv9jfhfu98j0dnk2t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
